@@ -24,5 +24,5 @@ const InterviewStats = ({ interviews }) => {
     </div>
   );
 };
-
+  
 export default InterviewStats;
